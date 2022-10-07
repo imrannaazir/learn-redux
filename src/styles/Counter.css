@@ -1,0 +1,20 @@
+.counter {
+  background: #fffff1;
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  gap: 6px;
+}
+.btn-grp {
+  display: flex;
+  gap: 6px;
+}
+.btn {
+  background: skyblue;
+  border: none;
+  padding: 6px;
+  color: white;
+  font-size: large;
+  border-radius: 5%;
+}
